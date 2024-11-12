@@ -1,0 +1,134 @@
+Info 91 (“we,” “our,” or “us”) respects the privacy of our users and is committed to protecting
+your personal data. This Privacy Policy (“Policy”) outlines how we collect, use, share, and
+protect the information provided by users (“you” or “your”) through the use of our website,
+application, and related services (collectively referred to as the “Website/App”). By accessing
+or using our Website/App, you consent to the collection, use, and disclosure of your personal
+data as described in this Policy.The users unconditionally agree that browsing the Website
+and/or using its services signifies their unconditional assent to this Privacy Policy. The
+Privacy Policy is published in compliance with Section 43A of the Information Technology
+Act, 2000 and Regulation 4 of the Information Technology (Reasonable Security Practices
+and Procedures and Sensitive Personal Information) Rules, 2011 (the &quot;SPI Rules&quot;)
+1. Information We Collect
+We may collect different types of information about you when you use our Website/App,
+including but not limited to:
+1.1. Personal Information:
+ Contact Information: Your name, email address, phone number, and other contact
+details that you provide when registering or contacting us.
+ Account Information: Username, password, and other details when you create an
+account.
+ Payment Information: If applicable, we may collect billing information such as
+credit card numbers or other payment details. When you choose any subscription or
+paid service provided as part of our services, our payment gateway provider may
+collect your purchase, address or billing information, including your credit card
+number, debit card number, UPI Id and card expiration date etc. 
+ Profile Information: Information you provide in your profile, such as your
+preferences, interests, and feedback.
+ Location Data: Information related to your location when you access our services,
+either through direct entry or automatically through GPS, Wi-Fi, or IP-based location
+detection.
+The Personal Information is used for three general purposes: to customize the content you
+see, to fulfill your requests for certain services, and to contact you about our services.
+1.2. Non-Personal Information:
+ Device Information: Information about the device(s) you use to access the
+Website/App, including the hardware model, operating system, browser type, IP
+address, and unique device identifiers.
+ Usage Data: We collect information on how you use the Website/App, including your
+browsing activity, viewed pages, accessed services, and interaction with the content.
+1.3. Cookies and Tracking Technologies:
+ We send cookies (small files containing a string of characters) to your computer,
+thereby uniquely identifying your browser. Cookies are used to track your preferences,
+
+help you login faster, and aggregated to determine user trends. We use cookies and
+other tracking technologies to collect and store information about your use of the
+Website/App. This helps us enhance user experience, manage content, and track
+performance. You can manage your cookie preferences through your browser settings.
+2. How We Use Your Information
+We may use the collected information for various purposes, including:
+2.1. Providing and Improving Services:
+ To deliver the products and services you request, including customer support,
+technical assistance, and personalization of content.
+ To improve and optimize the functionality of the Website/App.
+ To process transactions and communicate regarding the status of payments or refunds.
+2.2. Communication:
+ To send promotional materials, updates, or newsletters based on your preferences
+(you can opt out of these communications at any time).
+ To respond to your inquiries and feedback.
+2.3. Analytics and Research:
+ To analyze usage trends and behavior to improve our Website/App and services.
+ To conduct research and data analysis, ensuring our content and services are relevant
+to our users.
+2.4. Legal Compliance:
+ To comply with applicable laws and regulations, including disclosing information to
+authorities where required by law.
+2.5. Security and Fraud Prevention:
+ To maintain the security of the Website/App, investigate potential violations, and
+prevent fraudulent activity.
+3. Information Sharing and Disclosure
+We may share your information in the following cases:
+3.1. With Service Providers:
+ We work with third-party service providers to offer certain services such as payment
+processing, hosting, analytics, and customer support. These providers will have access
+to your personal information only to perform specific tasks on our behalf and are
+obligated not to disclose or use your information for other purposes.
+3.2. Legal Obligations:
+
+ We may disclose your information if required to do so by law, such as in response to a
+subpoena, court order, or government request, or to protect our legal rights.
+3.3. Business Transfers:
+ If Info 91 undergoes a merger, acquisition, or asset sale, your information may be
+transferred as part of that transaction. We will notify you of any changes and your
+rights regarding the transfer of your data.
+3.4. With Your Consent:
+ We may share your personal data with third parties when you provide explicit consent
+to do so.
+4. Data Security
+We are committed to securing your data and use reasonable technical, administrative, and
+physical safeguards to protect it from unauthorized access, alteration, or destruction. Despite
+these measures, no method of electronic storage or transmission over the internet is
+completely secure, and we cannot guarantee the absolute security of your data.
+5. Data Retention
+We will retain your personal information for as long as necessary to fulfill the purposes
+outlined in this Privacy Policy, comply with legal obligations, resolve disputes, and enforce
+agreements. When your personal information is no longer required, we will securely dispose
+of it.
+6. Your Rights
+You have the following rights regarding your personal data:
+6.1. Access: You can request access to your personal information and obtain a copy of the
+data we hold about you.
+6.2. Rectification: If any of your personal information is inaccurate or incomplete, you have
+the right to request its correction.
+6.3. Deletion: You may request the deletion of your personal information where it is no
+longer necessary for the purposes for which it was collected, or where you withdraw consent.
+6.4. Restriction: You can ask us to restrict the processing of your data in certain
+circumstances.
+6.5. Objection: You have the right to object to our processing of your personal data,
+including for direct marketing purposes.
+6.6. Data Portability: You may request to receive your data in a structured, commonly used,
+and machine-readable format, and have the right to transmit it to another controller.
+
+7. International Data Transfers
+Info 91 operates within India, but we may transfer your personal information to other
+countries if necessary to provide our services. If we transfer your data outside India, we will
+take appropriate safeguards to ensure the protection of your personal information.
+8. Children’s Privacy
+Our Website/App is not intended for use by minors (persons under the age of 18), and we do
+not knowingly collect personal data from minors. If we become aware that we have
+inadvertently collected such data, we will take steps to delete it.
+9. Third-Party Links
+Our Website/App may contain links to third-party websites or services. We are not
+responsible for the privacy practices of such third parties, and we encourage you to read their
+privacy policies before engaging with their services.
+10. Changes to this Privacy Policy
+We reserve the right to modify or update this Privacy Policy at any time. Any changes will be
+reflected with the “Last Updated” date at the top of this page. We encourage you to review
+this Policy periodically for any changes.
+11. Consent Withdrawal, Data Download &amp; Data Removal Requests
+To withdraw your consent, or to request the download or to delete your data with us for any
+or all our services at any time, please email to  _________ [please provide an email id to
+receive such requests]
+11. Grievance Redressal
+Any complaints, abuse or concerns with regards to content or breach of these terms shall be
+immediately informed to the designated Grievance Officer as mentioned below
+Grievance Officer: [Name of Grievance Officer]
+Email: [Grievance Officer Email Address]
+Address: [Grievance Officer Office Address]
